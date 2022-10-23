@@ -1,8 +1,9 @@
 # This project is a Task given by Quantix L.L.C due to my Internship application
 
-#Comment
+# Comment
 This tutorial was challenging for me, since this is the very first time I am in contact with Angular framework. 
-My main issues we're in the 4th part, when adding Services.
+My main issues stared in the 4th part, when adding Services and so on...
+Looking forward to learn more!
 
 # AngularTourOfHeroes
 
