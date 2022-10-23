@@ -32,4 +32,13 @@ export class HeroDetailComponent implements OnInit {
   goBack(): void {
     this.location.back();
   }
+
+  toggle = true;
+  status = 'Enable'; 
+  // job:'';
+
+  enableDisableRule() {
+    this.toggle = !this.toggle;
+    this.status = this.toggle ? 'Enable' : 'Disable';
+ }
 }

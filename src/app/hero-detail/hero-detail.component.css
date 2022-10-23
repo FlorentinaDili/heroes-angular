@@ -22,3 +22,11 @@ button:disabled {
   color: #ccc;
   cursor: auto;
 }
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
