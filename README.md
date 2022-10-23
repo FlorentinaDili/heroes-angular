@@ -1,5 +1,9 @@
 # This project is a Task given by Quantix L.L.C due to my Internship application
 
+#Comment
+This tutorial was challenging for me, since this is the very first time I am in contact with Angular framework. 
+My main issues we're in the 4th part, when adding Services.
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
